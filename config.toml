@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://lindenparkward.netlify.app'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'Linden Park Ward'
 theme = 'netlify-basic'
